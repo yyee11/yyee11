@@ -10,7 +10,7 @@ study room time
 music <https://www.youtube.com/watch?v=hhSTf2xF3wQ&t=4396s>
 student Schedule by Day and Time : Semester B 2022/23
 
--2023 flag
+2023 flag
  study:
   get A in all course(avarage)
   study 12 hours per weekday（average too, 5/7）
