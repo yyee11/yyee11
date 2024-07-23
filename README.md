@@ -9,19 +9,18 @@
 study room time  
 music <https://www.youtube.com/watch?v=hhSTf2xF3wQ&t=4396s>  
 student Schedule by Day and Time : Semester B 2022/23
+study 12 hours per weekday（average too, 5/7）  
+speak in English or Español 20 mins per day  
+study a computer langurage//leetcode(not decide yet) 
 
--2023 flag
- study:  
-  get A in all course(avarage)  
-  study 12 hours per weekday（average too, 5/7）  
-  speak in English or Español 20 mins per day  
-  study a computer langurage//leetcode(not decide yet)  
-   
- life:  
-  at least read three books  
-    book list:活著  
-  watch 150 films  
-    film list:  
+-2024 
+Work: still working on
+ state grid bingo and hk going on
+working out and spoken English evey weekday 
+Español or japanese or gremany
+fitttt
+    
+  
    
  
 <!---
